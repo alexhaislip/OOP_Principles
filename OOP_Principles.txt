@@ -1,0 +1,14 @@
+The goal of a computer program is solve a program. Solving problems in the real world means modeling the real world in code. The world is full of objects. Computers, houses, animals, people, plants, and so many more objects are found all around. 
+
+If you wanted to build a house, you would need a blueprint. If you wanted to make several houses, you could use the same blueprint if the houses were all going to be the same. 
+
+The idea behind Object-Oriented Programming (OOP) is just as it sounds. Create programs based on objects. That blueprint you had could be consider a class and the actual house could be considered an object. All the houses you build with that blueprint are also objects. 
+
+The four pillars of OOP
+
+	•	Encapsulation
+	•	Polymorphism
+	•	Inheritance
+	•	Abstraction
+
+Source: https://docs.microsoft.com
